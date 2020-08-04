@@ -8,7 +8,7 @@ For all repo links and with reference to microverse projects and its pull reques
   
 1. [Embedding Images and Video](https://github.com/FelipeEnne/HTMLYoutube)
 2. [HTML Forms](https://github.com/ricardovaltierra/HTMLForms)
-3. [Positioning and Floating Elements](https://github.com/FelipeEnne/Positioning-Floating-Microverse/pull/5#partial-pull-merging)
+3. [Positioning and Floating Elements](https://github.com/FelipeEnne/Positioning-Floating-Microverse)
 4. [Building with Backgrounds and Gradients](https://github.com/ricardovaltierra/backgrounds-and-gradients)
 5. [Design Teardown](https://github.com/ricardovaltierra/design-teardown)
 6. [Building with Responsive Design](https://github.com/FelipeEnne/Building-with-Responsive-Design)
@@ -40,10 +40,10 @@ For all repo links and with reference to microverse projects and its pull reques
   <summary></summary>
   
 1. [Toy's Demo App](https://github.com/ricardovaltierra/toy-demo-app)
-2. [Michael Hartl's Sample App](https://github.com/ricardovaltierra/sample-app/)
+2. [Michael Hartl's Sample App](https://github.com/ricardovaltierra/sample-app)
 3. [Micro Reddit](https://github.com/ClintonEnyinna/micro-reddit)
 4. [Re-Former](https://github.com/ricardovaltierra/re-former)
-5. [Members Only!](https://github.com/ClintonEnyinna/members-only/pull/1)
+5. [Members Only!](https://github.com/ClintonEnyinna/members-only)
 6. [Private Events](https://github.com/ricardovaltierra/private-events)
 7. [Social media website - Milestone: docs](https://github.com/ClintonEnyinna/stay_in_touch/pull/1)
 8. [Social media website - Milestone: friendships v1](https://github.com/ClintonEnyinna/stay_in_touch/pull/2)
