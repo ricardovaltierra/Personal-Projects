@@ -20,9 +20,9 @@ For all repo links and with reference to microverse projects and its pull reques
 <details markdown="block">
   <summary></summary>
   
-1. [Advanced Building Blocks - Bubble Sort](https://github.com/firmoholanda/ruby-bubble-sort)
-2. [Advanced Building Blocks - Enumerable Methods](https://github.com/ricardovaltierra/enumerable)
-3. [Tic -Tac - Toe](https://github.com/ricardovaltierra/tic-tac-toe)
+1. [Bubble Sort](https://github.com/firmoholanda/ruby-bubble-sort)
+2. [Enumerable Methods](https://github.com/ricardovaltierra/enumerable)
+3. [Tic-Tac-Toe](https://github.com/ricardovaltierra/tic-tac-toe)
 4. [Testing - Tic Tac Toe](https://github.com/ricardovaltierra/tic-tac-toe/pull/6)
 5. [Testing - Enumerable](https://github.com/firmoholanda/ruby-enumerable-methods/pull/3)
 6. [Slackbot](https://github.com/ricardovaltierra/slackbot)
@@ -57,7 +57,7 @@ For all repo links and with reference to microverse projects and its pull reques
   <summary></summary>
   
 1. [Library Record](https://github.com/redacuve/Library-JS)
-2. [Tic Tac Toe](https://github.com/ricardovaltierra/js-tic-tac-toe)
+2. [Tic-Tac-Toe](https://github.com/ricardovaltierra/js-tic-tac-toe)
 3. [Restaurant Page](https://github.com/ricardovaltierra/restaurant)
 4. [To-Do List](https://github.com/redacuve/to-do-js)
 5. [Weather App](https://github.com/ricardovaltierra/weather-app)
