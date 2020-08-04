@@ -25,7 +25,7 @@ For all repo links and with reference to microverse projects and its pull reques
 3. [Tic -Tac - Toe](https://github.com/ricardovaltierra/tic-tac-toe)
 4. [Testing - Tic Tac Toe](https://github.com/ricardovaltierra/tic-tac-toe/pull/6)
 5. [Testing - Enumerable](https://github.com/firmoholanda/ruby-enumerable-methods/pull/3)
-6. [Ruby Capstone Project](https://github.com/ricardovaltierra/slackbot)
+6. [Slackbot](https://github.com/ricardovaltierra/slackbot)
 </details>
 
 ## Databases
