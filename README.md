@@ -1,8 +1,10 @@
 # Project Repository Index
 For all repo links and with reference to microverse projects and its pull request
 
+## HTML & CSS3
 <details markdown="block">
-  <summary><h2> HTML & CSS3 </h2></summary>
+  <summary></summary>
+  
 1. [Embedding Images and Video](https://github.com/FelipeEnne/HTMLYoutube)
 2. [HTML Forms](https://github.com/ricardovaltierra/HTMLForms)
 3. [Positioning and Floating Elements](https://github.com/FelipeEnne/Positioning-Floating-Microverse/pull/5#partial-pull-merging)
@@ -13,8 +15,10 @@ For all repo links and with reference to microverse projects and its pull reques
 8. [Design your own Grid-based Framework](https://github.com/ricardovaltierra/design-your-own-grid-based-framework)
 </details>
 
+## Ruby
 <details markdown="block">
-  <summary><h2> Ruby </h2></summary>
+  <summary></summary>
+  
 1. [Advanced Building Blocks - Bubble Sort](https://github.com/firmoholanda/ruby-bubble-sort)
 2. [Advanced Building Blocks - Enumerable Methods ](https://github.com/ricardovaltierra/enumerable)
 3. [Tic -Tac - Toe](https://github.com/ricardovaltierra/tic-tac-toe)
@@ -23,13 +27,17 @@ For all repo links and with reference to microverse projects and its pull reques
 6. [Ruby Capstone Project](https://github.com/ricardovaltierra/slackbot)
 </details>
 
+## Databases
 <details markdown="block">
-  <summary><h2> Databases </h2></summary>
+  <summary></summary>
+  
 1. [SQL](https://github.com/ricardovaltierra/sql-zoo)
 </details>
 
+## Ruby on Rails
 <details markdown="block">
-  <summary><h2> Ruby on Rails </h2></summary>
+  <summary></summary>
+  
 1. [Getting Your Feet Wet](https://github.com/ricardovaltierra/toy-demo-app)
 2. [Let's Get Building](https://github.com/ricardovaltierra/sample-app/commit/014ea83268a273d957e6b8eaa27cd5734072723e)
 3. [Basic Routes, Views and Controllers](https://github.com/ricardovaltierra/sample-app/commit/d78cae5eb6b33b00b87a87797c9cf28ab96db634)
@@ -44,8 +52,10 @@ For all repo links and with reference to microverse projects and its pull reques
 12. [Capstone Project](https://github.com/ricardovaltierra/kilometers-per-truck)
 </details>
 
+## JavaScript
 <details markdown="block">
-  <summary><h2> JavaScript </h2></summary>
+  <summary></summary>
+  
 1. [Library](https://github.com/redacuve/Library-JS)
 2. [Tic Tac Toe](https://github.com/ricardovaltierra/js-tic-tac-toe)
 3. [Restaurant Page](https://github.com/ricardovaltierra/restaurant)
@@ -56,8 +66,9 @@ For all repo links and with reference to microverse projects and its pull reques
 8. [Capstone Project](https://github.com/ricardovaltierra/rpg-game)
 </details>
 
+## React & Redux
 <details markdown="block">
-  <summary><h2> React & Redux  </h2></summary>
+  <summary></summary>
 1. [Choose a course]()
 2. [Calculator]()
 3. [Bookstore CMS]()
